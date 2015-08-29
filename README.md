@@ -10,6 +10,27 @@
 <p/>
 Thanks for reading!</p> 
 
+##### *Italics feature*
+
+### Lists
+####Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+####Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+  ![Rosalind Sassoon](http://sassoonandassociates.com/About_us_files/shapeimage_2.png)
+#<p>HELP why is {Alt Text] not showing
+Why when I do NOT have a blank row above Table Test does the "table test" duplicate under "thanks for reading"?
+But if I add a blank row the table just shows below</p>
+
 ####Table Test
 ######Market Analysis
 Factor |Helpful|Harmful
